@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6db5a22-0b46-476a-908e-e841de3986f4/console.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utn/frc/bda/semana05/jdbc/Orders.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utn/frc/bda/semana05/jdbc/res/ddbb/h2/01.sacdb.estructura.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utn/frc/bda/semana05/jdbc/res/ddbb/h2/02.sacdb.carga.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utn/frc/bda/semana05/jdbc/res/ddbb/mysql/00.sacdb.altaddbb.sql" dialect="H2" />
+  </component>
+</project>
